@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 model
 data
+chroma_db

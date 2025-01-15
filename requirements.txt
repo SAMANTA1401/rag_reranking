@@ -16,3 +16,7 @@ huggingface_hu
 tiktoken 
 cryptography
 llama-cpp-python  # model
+pypdf
+google-generativeai
+langchain-google-genai
+unstructured
