@@ -4,3 +4,15 @@ ipykernel
 scikit-learn
 rank_bm25
 cohere
+python-dotenv
+
+langchain 
+chromadb 
+huggingface_hub 
+sentence-transformers
+langchain-community
+chromadb 
+huggingface_hu
+tiktoken 
+cryptography
+llama-cpp-python  # model
