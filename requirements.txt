@@ -6,6 +6,7 @@ rank_bm25
 cohere
 python-dotenv
 
+
 langchain 
 chromadb 
 huggingface_hub 
@@ -23,3 +24,9 @@ unstructured
 flashrank
 faiss-cpu
 lark
+
+
+llama-index
+llama-index-embeddings-huggingface
+llama-index-vector-stores-qdrant
+llama-index-llms-gemini
