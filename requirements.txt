@@ -32,3 +32,5 @@ llama-index-vector-stores-qdrant
 llama-index-llms-gemini
 
 langchain_groq
+
+ipywidgets
